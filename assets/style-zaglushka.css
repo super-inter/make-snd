@@ -8,7 +8,7 @@
 }
 
 @font-face {
-    font-family: 'LED Counter 7';
+    font-family: 'LEDCounter7';
     src: url('assets/fonts/LEDCounter7.woff2') format('woff2'),
         url('assets/fonts/LEDCounter7.woff') format('woff');
     font-weight: normal;
