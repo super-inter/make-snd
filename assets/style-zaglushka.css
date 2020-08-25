@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'Neue Montreal';
+    src: url('assets/fonts/NeueMontreal-Regular.woff2') format('woff2'),
+        url('assets/fonts/NeueMontreal-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'LED Counter 7';
+    src: url('assets/fonts/LEDCounter7.woff2') format('woff2'),
+        url('assets/fonts/LEDCounter7.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+body
+{
+    background-color: #bbd2f4;
+    text-align:center;
+    color: white;
+}
+
+.link {
+    color: #cce3ff;
+    position: absolute;
+    width: 728px;
+    height: 349px;
+    left: 920px;
+    top: 224px;
+    
+    font-family: Neue Montreal;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 41px;
+
+}
+h1{
+    position: absolute;
+    width: 1372px;
+    height: 567px;
+    left: 225px;
+    top: -545px;
+    
+    font-family: Neue Montreal;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 450px;
+    line-height: 600px;
+    font-style: normal;
+    font-display: swap;    
+}
+
+h2{
+    position: absolute;
+    width: 972px;
+    height: 482px;
+    left: -170px;
+    top: 0px;
+    
+    font-family: LED Counter 7;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 350px;
+    line-height: 400px;
+    font-style: normal;
+    font-display: swap;
+}
